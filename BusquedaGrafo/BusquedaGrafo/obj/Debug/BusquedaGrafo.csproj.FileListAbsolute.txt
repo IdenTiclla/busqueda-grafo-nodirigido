@@ -1,0 +1,12 @@
+C:\Users\eivyp\OneDrive\UTEPSA\MateriasNuevas\IA\BusquedaGrafo\BusquedaGrafo\bin\Debug\BusquedaGrafo.exe.config
+C:\Users\eivyp\OneDrive\UTEPSA\MateriasNuevas\IA\BusquedaGrafo\BusquedaGrafo\bin\Debug\BusquedaGrafo.exe
+C:\Users\eivyp\OneDrive\UTEPSA\MateriasNuevas\IA\BusquedaGrafo\BusquedaGrafo\bin\Debug\BusquedaGrafo.pdb
+C:\Users\eivyp\OneDrive\UTEPSA\MateriasNuevas\IA\BusquedaGrafo\BusquedaGrafo\obj\Debug\BusquedaGrafo.csprojResolveAssemblyReference.cache
+C:\Users\eivyp\OneDrive\UTEPSA\MateriasNuevas\IA\BusquedaGrafo\BusquedaGrafo\obj\Debug\BusquedaGrafo.exe
+C:\Users\eivyp\OneDrive\UTEPSA\MateriasNuevas\IA\BusquedaGrafo\BusquedaGrafo\obj\Debug\BusquedaGrafo.pdb
+C:\Users\Asus\OneDrive\UTEPSA\MateriasNuevas\IA\BusquedaGrafo\BusquedaGrafo\bin\Debug\BusquedaGrafo.exe.config
+C:\Users\Asus\OneDrive\UTEPSA\MateriasNuevas\IA\BusquedaGrafo\BusquedaGrafo\obj\Debug\BusquedaGrafo.exe
+C:\Users\Asus\OneDrive\UTEPSA\MateriasNuevas\IA\BusquedaGrafo\BusquedaGrafo\obj\Debug\BusquedaGrafo.pdb
+C:\Users\Asus\OneDrive\UTEPSA\MateriasNuevas\IA\BusquedaGrafo\BusquedaGrafo\bin\Debug\BusquedaGrafo.exe
+C:\Users\Asus\OneDrive\UTEPSA\MateriasNuevas\IA\BusquedaGrafo\BusquedaGrafo\bin\Debug\BusquedaGrafo.pdb
+C:\Users\Asus\OneDrive\UTEPSA\MateriasNuevas\IA\BusquedaGrafo\BusquedaGrafo\obj\Debug\BusquedaGrafo.csprojResolveAssemblyReference.cache
